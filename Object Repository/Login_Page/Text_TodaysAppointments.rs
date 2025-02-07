@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text_TodaysAppointments</name>
+   <tag></tag>
+   <elementGuidId>b8d0387d-ef3a-45fc-b234-87db2daf8ea9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@openmrs/esm-home-app-page-0']/main/div/section/div[2]/div[3]/div/div[2]/div/div/div/div/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.-esm-appointments__appointments-table__desktopHeading___g0U5o > h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>1483791e-74d4-4b36-b4e5-ca67c849107b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Today's Appointments</value>
+      <webElementGuid>ab2fafa4-24b6-463c-b565-8366eae8372e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@openmrs/esm-home-app-page-0&quot;)/main[@class=&quot;omrs-main-content&quot;]/div[@class=&quot;-esm-home__home-dashboard__homePageWrapper___ysEHx&quot;]/section[@class=&quot;-esm-home__home-dashboard__dashboardContainer___q4adH&quot;]/div[@class=&quot;-esm-home__dashboard-view__dashboardView___bKS9+&quot;]/div[3]/div[@class=&quot;-esm-home__home-page-widgets__homePageWidget___sQAOV&quot;]/div[2]/div[@class=&quot;-esm-appointments__home-appointments__container___uCU0X&quot;]/div[@class=&quot;cds--layer-two -esm-appointments__appointments-table__container___32+lN&quot;]/div[@class=&quot;cds--tile -esm-appointments__appointments-table__headerContainer___uue0E&quot;]/div[@class=&quot;-esm-appointments__appointments-table__desktopHeading___g0U5o&quot;]/h4[1]</value>
+      <webElementGuid>cd3a6ceb-8b14-4c4e-b71a-9f63c804ce39</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@openmrs/esm-home-app-page-0']/main/div/section/div[2]/div[3]/div/div[2]/div/div/div/div/h4</value>
+      <webElementGuid>01099d16-88a2-4cc1-b5cb-7b709cf7230a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active Visits'])[2]/following::h4[1]</value>
+      <webElementGuid>2c11ab9d-4cf3-4745-9c1d-7da124f5d52b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Patients'])[3]/following::h4[2]</value>
+      <webElementGuid>73cb4bd1-aba0-4a9b-81b0-e595bf3201a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download'])[1]/preceding::h4[1]</value>
+      <webElementGuid>4d99b6cb-6f61-473f-b4b3-cdc8441a857d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click to sort rows by Patient name header in ascending order'])[1]/preceding::h4[1]</value>
+      <webElementGuid>9969cf51-e29d-44d2-ad7f-0b5238ba78bd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/h4</value>
+      <webElementGuid>c8204c5e-c41d-4fce-baa2-5b633ed2551a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = concat(&quot;Today&quot; , &quot;'&quot; , &quot;s Appointments&quot;) or . = concat(&quot;Today&quot; , &quot;'&quot; , &quot;s Appointments&quot;))]</value>
+      <webElementGuid>e0f11dac-2b81-4808-a946-fd267777c39e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

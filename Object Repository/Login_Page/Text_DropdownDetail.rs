@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text_DropdownDetail</name>
+   <tag></tag>
+   <elementGuidId>793fca45-9595-4dec-b6a1-ea5cc45d9913</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.-esm-appointments__appointment-details__title___KC8EH</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@openmrs/esm-home-app-page-0']/main/div/section/div[2]/div[3]/div/div[2]/div/div/div[3]/div/table/tbody/tr[2]/td/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>88d6bb55-e1b2-4a05-a3d4-bd065d6bcc9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>-esm-appointments__appointment-details__title___KC8EH</value>
+      <webElementGuid>8b7c9f0a-8774-4a30-b01a-11509a41a61f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rehabilitation service</value>
+      <webElementGuid>0bf26254-897a-4b63-a4ca-93483f441b0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@openmrs/esm-home-app-page-0&quot;)/main[@class=&quot;omrs-main-content&quot;]/div[@class=&quot;-esm-home__home-dashboard__homePageWrapper___ysEHx&quot;]/section[@class=&quot;-esm-home__home-dashboard__dashboardContainer___q4adH&quot;]/div[@class=&quot;-esm-home__dashboard-view__dashboardView___bKS9+&quot;]/div[3]/div[@class=&quot;-esm-home__home-page-widgets__homePageWidget___sQAOV&quot;]/div[2]/div[@class=&quot;-esm-appointments__home-appointments__container___uCU0X&quot;]/div[@class=&quot;cds--layer-two -esm-appointments__appointments-table__container___32+lN&quot;]/div[@class=&quot;cds--data-table-container&quot;]/div[@class=&quot;cds--data-table-content&quot;]/table[@class=&quot;cds--data-table cds--data-table--sm cds--data-table--sort cds--data-table--zebra cds--data-table--visible-overflow-menu&quot;]/tbody[1]/tr[@class=&quot;cds--expandable-row -esm-appointments__appointments-table__expandedRow___oUJWy&quot;]/td[1]/div[@class=&quot;cds--child-row-inner-container&quot;]/div[@class=&quot;-esm-appointments__appointment-details__appointmentDetailsContainer___d9ua2&quot;]/p[@class=&quot;-esm-appointments__appointment-details__title___KC8EH&quot;]</value>
+      <webElementGuid>d72c0af1-5402-41d0-9f1b-930cca9c647b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@openmrs/esm-home-app-page-0']/main/div/section/div[2]/div[3]/div/div[2]/div/div/div[3]/div/table/tbody/tr[2]/td/div/div/p</value>
+      <webElementGuid>8a704c4e-a15c-4a1f-8c27-c244d570464c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Options'])[1]/following::p[1]</value>
+      <webElementGuid>a5d8e701-68c0-4611-b1e9-a10861c3f159</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check In'])[1]/following::p[1]</value>
+      <webElementGuid>844cf20d-141e-40ef-877f-5b039517d207</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items per page:'])[1]/preceding::p[18]</value>
+      <webElementGuid>525876b1-6a4c-4735-a6b3-e170f51c0bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Page number, of 1 pages'])[1]/preceding::p[18]</value>
+      <webElementGuid>0cd585bb-e6ee-4da4-a48b-68d07f22f7d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div/p</value>
+      <webElementGuid>1fd9073d-aeb6-4845-aa46-9f8d1f67bafa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Rehabilitation service' or . = 'Rehabilitation service')]</value>
+      <webElementGuid>a3418b3e-d763-4e8f-af6f-708dbaa1b17e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

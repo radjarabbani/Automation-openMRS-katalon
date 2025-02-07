@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Text_DetailInformationPatient</name>
+   <tag></tag>
+   <elementGuidId>0522eb1b-2344-4d4a-b0da-169b507da360</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.-esm-patient-vitals__vitals-header__heading___Srnfj</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='single-spa-application:@openmrs/esm-patient-chart-app-page-0']/div/main/div/aside/div[3]/div/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>58ecb54c-2836-4feb-b87d-9946f1e187bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>-esm-patient-vitals__vitals-header__heading___Srnfj</value>
+      <webElementGuid>ad15b216-7f30-4c2c-a590-8d1e15d8d74e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vitals and biometrics</value>
+      <webElementGuid>fd25fcdd-1422-4bab-b472-0c70bc1d4b23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;single-spa-application:@openmrs/esm-patient-chart-app-page-0&quot;)/div[@class=&quot;-esm-patient-chart__root__patientChartWrapper___rIbt0&quot;]/main[@class=&quot;omrs-main-content -esm-patient-chart__patient-chart__chartContainer___xCAwZ&quot;]/div[@class=&quot;-esm-patient-chart__patient-chart__innerChartContainer___QPoaQ&quot;]/aside[1]/div[3]/div[1]/div[@class=&quot;-esm-patient-vitals__vitals-header__container___2PKEF&quot;]/div[@class=&quot;-esm-patient-vitals__vitals-header__vitalsHeader___nN7c6&quot;]/div[@class=&quot;-esm-patient-vitals__vitals-header__headerItems___Fdj8S&quot;]/span[@class=&quot;-esm-patient-vitals__vitals-header__heading___Srnfj&quot;]</value>
+      <webElementGuid>3b393ffc-99a9-49ee-b658-b0a7d2b9ddc4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='single-spa-application:@openmrs/esm-patient-chart-app-page-0']/div/main/div/aside/div[3]/div/div/div/div/span</value>
+      <webElementGuid>92f5fd69-c495-48fe-9345-537803ce5236</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show more'])[1]/following::span[1]</value>
+      <webElementGuid>12a1943c-609f-4599-b771-bb6d2e26f7fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mark patient deceased'])[1]/following::span[2]</value>
+      <webElementGuid>afbff0cf-b939-427a-b483-0e4286f7229b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Today, 01:54 AM'])[1]/preceding::span[1]</value>
+      <webElementGuid>879189ca-1001-4592-bc61-49297debc1ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vitals history'])[1]/preceding::span[2]</value>
+      <webElementGuid>52cf1dba-6863-464f-b479-2bd7464d7ce4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vitals and biometrics']/parent::*</value>
+      <webElementGuid>bdde526c-21c6-47ad-83c6-819b96f90573</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/span</value>
+      <webElementGuid>0a551746-59b9-434a-8ea9-0eab3d2d5735</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Vitals and biometrics' or . = 'Vitals and biometrics')]</value>
+      <webElementGuid>ea290b99-80de-4319-bebb-4106d4dfe935</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
